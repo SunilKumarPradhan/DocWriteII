@@ -1,13 +1,13 @@
 ---
-title: "Random Test Notes"
+title: "Dark Mode"
 layout: default
 nav_order: 0
 last_modified_date: 2026-01-11
 ---
 
-# Random Test Notes
+# Dark Mode
 
-> Just Checking If This works or not
+> Dark Side
 
 {: .note }
 **1 comprehensive lecture notes** covering the complete course curriculum.
@@ -16,7 +16,7 @@ last_modified_date: 2026-01-11
 
 ## Course Content
 
-### 1. [🎓 Life Lessons from Your Future Self: A Reflective Journey](01.%20Life%20Lessons%20from%20Your%20Future%20Self%20A%20Reflective%20Journey.html)
+### 1. [🎓 Life Lessons and Reflections: A Note to My Future Self](01.%20Life%20Lessons%20and%20Reflections%20A%20Note%20to%20My%20Future%20Self.html)
 
 ---
 
