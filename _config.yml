@@ -13,7 +13,7 @@ plugins:
   - jekyll-include-cache
 
 # Theme settings
-color_scheme: notesmith
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 
