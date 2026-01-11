@@ -1,6 +1,6 @@
-# Random Test Notes
+# Dark Mode
 
-Just Checking If This works or not
+Dark Side
 
 ## About
 
