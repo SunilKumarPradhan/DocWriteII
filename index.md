@@ -16,7 +16,7 @@ last_modified_date: 2026-01-11
 
 ## Course Content
 
-### 1. [🎓 Life Lessons and Reflections: A Letter to My Younger Self](01.%20Life%20Lessons%20and%20Reflections%20A%20Letter%20to%20My%20Younger%20Self.html)
+### 1. [🎓 Life Lessons from Your Future Self: A Reflective Journey](01.%20Life%20Lessons%20from%20Your%20Future%20Self%20A%20Reflective%20Journey.html)
 
 ---
 
